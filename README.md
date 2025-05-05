@@ -1,6 +1,4 @@
-- [ExtHang3rRemastered](#exthang3rremastered)
-  * [This is simply a remaster + Fixed Update For Securly Extensions, any other extensions will be worked on this repository https://github.com/Justanewplayer19/ExtHang3rRemastered-OtherBlockersExtension.](#this-is-simply-a-remaster---fixed-update-for-securly-extensions--any-other-extensions-will-be-worked-on-this-repository-https---githubcom-justanewplayer19-exthang3rremastered-otherblockersextension)
-    + [ALL OFFICIAL CREDITS GO TO http://github.com/Blobby-Boi](#all-official-credits-go-to-http---githubcom-blobby-boi)
-      - [Please Star this, and share this to others who have securly including Goguardian, new updates will be made daily so i can fix it better. also use the recommended amount for your device, 5000 makes it last for days or even longer, make any issues and i will fix them.](#please-star-this--and-share-this-to-others-who-have-securly-including-goguardian--new-updates-will-be-made-daily-so-i-can-fix-it-better-also-use-the-recommended-amount-for-your-device--5000-makes-it-last-for-days-or-even-longer--make-any-issues-and-i-will-fix-them)
-
-<small><i><a href='http://github.com/3kh0/readme-toc/'>Table of contents generated with readme-toc</a></i></small>
+# ExtHang3rRemastered
+## This is simply a remaster + Fixed Update For Securly Extensions, any other extensions will be worked on this repository https://github.com/Justanewplayer19/ExtHang3rRemastered-OtherBlockersExtension.
+### ALL OFFICIAL CREDITS GO TO http://github.com/Blobby-Boi
+#### Please Star this, and share this to others who have securly including Goguardian, new updates will be made daily so i can fix it better. also use the recommended amount for your device, 5000 makes it last for days or even longer, make any issues and i will fix them.
